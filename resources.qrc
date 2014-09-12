@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/QgisCgiServer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
